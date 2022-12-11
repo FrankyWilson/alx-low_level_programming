@@ -4,14 +4,16 @@
 /**
  * main -> Entry point
  *
- * Return: Always 0(Success)
+ * Return: Always 0 (success)
+ *
  */
+
 int main(void)
 {
-	char rev;
+	char low;
 
-	for(rev = 'z'; rev >= 'a'; rev--)
-		putchar(rev);
+	for (low = 'z'; low >= 'a'; low--)
+		putchar(low);
 	putchar('\n');
 
 	return (0);
