@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- * main -> prints alphabets
- *
- * @parameter1: prints alphabet in 10 times
+ * print_alphabet -> prints alphabet in 10 times
  *
  * Return: Always 0 (success)
  *
