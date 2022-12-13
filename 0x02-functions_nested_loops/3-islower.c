@@ -8,15 +8,7 @@
  */
 int _islower(int c)
 {
-	char x;
-	int alpha = 0;
 
-	for (x = 'z'; x <= 'z'; x++)
-	{
-		if (x == c)
-			alpha = 1;
-	}
-
-	return (alpha);
+	return (c >= 'a' && c <= 'z');
 
 }
