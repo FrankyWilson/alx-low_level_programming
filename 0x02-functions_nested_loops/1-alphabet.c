@@ -2,6 +2,8 @@
 /**
  * main -> prints alphabets
  *
+ * @parameter1: prints alphabet in 10 times
+ *
  * Return: Always 0 (success)
  *
  */

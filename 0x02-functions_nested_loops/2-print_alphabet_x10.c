@@ -20,4 +20,5 @@ void print_alphabet_x10(void)
 
 	loop++;
 	}
+	return (0);
 }
