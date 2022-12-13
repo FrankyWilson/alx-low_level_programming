@@ -2,7 +2,7 @@
 /**
  * _islower -> prints alphabet other than c
  *
- * @c: parameter 1
+ * @c: parameter 1.
  *
  * Return: success
  */
