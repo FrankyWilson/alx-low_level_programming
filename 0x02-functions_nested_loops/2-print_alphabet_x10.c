@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main -> checks the code.
+ * print_alphabet -> prints alphabet in 10 places
  *
  * Return: Always success.
  *
@@ -20,5 +20,4 @@ void print_alphabet_x10(void)
 
 	loop++;
 	}
-	return (0);
 }
