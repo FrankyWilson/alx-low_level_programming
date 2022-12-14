@@ -1,0 +1,12 @@
+#include "main.h"
+/**
+ * _islower -> checks if c equals to a certain character
+ *
+ * @c: an input character
+ *
+ * Return: 1 if c is a letter, lowercase of uppercase, returns 0 if otherwise
+ */
+int _islower(int c)
+{
+	return ((c >= 'a') || (c <= 'A'));
+}
