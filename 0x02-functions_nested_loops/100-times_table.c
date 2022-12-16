@@ -33,7 +33,7 @@ void putformat(int n)
 	{
 		_putchar(',');
 		_putchar(' ');
-		_putcahr(' ');
+		_putchar(' ');
 		_putchar(' ');
 		_putchar(n + '0');
 	}
