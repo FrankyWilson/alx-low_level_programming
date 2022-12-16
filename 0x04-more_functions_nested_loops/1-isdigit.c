@@ -8,10 +8,10 @@
  */
 int _isdigit(int c)
 {
-	char x = '0';
-	int _isdigit = 0;
+	char i = '0';
+	int isdigit = 0;
 
-	for (; x <= '9'; x++)
+	for (; i <= '9'; i++)
 	{
 		if (i == c)
 		{
