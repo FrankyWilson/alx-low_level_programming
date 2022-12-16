@@ -42,7 +42,7 @@ void putformat(int n)
 		_putchar(',');
 		_putchar(' ');
 		_putchar(' ');
-		_putcahr(n / 10 + '0');
+		_putchar(n / 10 + '0');
 		_putchar(n % 10 + '0');
 	}
 	else
