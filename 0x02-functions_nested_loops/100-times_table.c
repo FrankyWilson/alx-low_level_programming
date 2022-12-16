@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * print_times_table -> prints times tale for numbers
  * @n: an input intger vale
