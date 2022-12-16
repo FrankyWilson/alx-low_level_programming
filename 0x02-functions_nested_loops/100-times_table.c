@@ -4,7 +4,7 @@
  * @n: an input intger vale
  * Return: Notheing
  */
-void print_times_table(ing n)
+void print_times_table(int n)
 {
 	int i, j;
 
