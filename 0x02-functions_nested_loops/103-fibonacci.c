@@ -14,7 +14,7 @@ int main(void)
 
 	for (i = 2; i < 50; i++)
 	{
-		fibonacci[i] = fibonacci[i - 1] + fibonaci[i - 2];
+		fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2];
 		if ((fibonacci[i] % 2) == 0 && fibonacci[i] < 4000000)
 			sum += fibonacci[i];
 	}
