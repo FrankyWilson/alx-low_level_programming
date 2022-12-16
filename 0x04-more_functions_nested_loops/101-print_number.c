@@ -1,11 +1,11 @@
 #include "main.h"
+void print_integer(int m);
 /**
  * print_number -> function that prints an integer.
  * @n: An input integer
  * Return: Success
  */
 void print_number(int n)
-void print_number(int m);
 {
 	if (n == 0)
 		_putchar('0');
