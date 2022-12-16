@@ -15,10 +15,10 @@ int _isdigit(int c)
 	{
 		if (i == c)
 		{
-			_isdigit = 1;
+			isdigit = 1;
 			break;
 		}
 	}
 
-	return (_isdigit);
+	return (isdigit);
 }
