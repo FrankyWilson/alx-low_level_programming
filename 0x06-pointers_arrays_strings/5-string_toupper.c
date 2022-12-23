@@ -1,19 +1,18 @@
 #include "main.h"
 /**
- *
- *
+ * string_toupper -> converting any string to upper case
+ * @x: string param
+ * Return: string
  */
-char *string_toupper(char *)
+char *string_toupper(char *x)
 {
-	char *start = s;
+	int i = 0;
 
-	while (*s)
+	while (x[i])
 	{
-		if (*s >= 'a' && *s <= 'z')
-			*s -= 32;
-
-		s++;
+		if (x[i] >= 97 && x[i] <= 122)
+			x[i] = x[i] - 32;
+		i++;
 	}
-
-	return (start);
+	return (x);
 }
