@@ -7,7 +7,7 @@
  *
  * Return: the string since the first found accepted character
  */
-char *_strpbrk(char *s, cahr *accept)
+char *_strpbrk(char *s, char *accept)
 {
 	int a = 0, b;
 
