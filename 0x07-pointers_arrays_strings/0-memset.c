@@ -3,7 +3,7 @@
 
 /**
  * _memset -> memory
- * @s: string 
+ * @s: string
  * @b: char
  * @n: an integer
  * Return: string
