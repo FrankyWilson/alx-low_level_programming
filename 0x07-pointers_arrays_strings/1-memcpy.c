@@ -2,11 +2,11 @@
 #include <string.h>
 
 /**
- * _memset -> coppies memory
+ * _memcpy -> coppies memory
  * @dest: destinations
  * @src: source
  * @n: bytes to be copied
- * Return string copies
+ * Return: string copies
  */
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
