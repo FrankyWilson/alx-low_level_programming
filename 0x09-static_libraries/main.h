@@ -7,7 +7,7 @@ int _abs(int n);
 int _isupper(int c);
 int _isdigit(int c);
 int strlen(char *s);
-void _puts(char *s);
+void _puts(char *str);
 char *_strcpy(char *dest, char *src);
 int atoi(char *s);
 char *_strcat(char *dest, char *src);
