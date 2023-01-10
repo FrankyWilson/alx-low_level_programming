@@ -1,3 +1,2 @@
-# malloc
-projects all about allocating memory
-
+#mallock and free projects
+about the malloc function
