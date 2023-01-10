@@ -2,7 +2,7 @@
 #define MAIN_H
 #include <stddef.h>
 #include <stdlib.h>
-_putchar.c
+int _putchar;
 char *create_array(unisigned int size, char c);
 char *_strdup(char *str);
 
